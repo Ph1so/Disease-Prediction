@@ -20,6 +20,8 @@ In this project, I employed several different machine learning models from Sciki
 
 Currently, the trained model achieved an accuracy score of 99.4%. 
 
+<img width="727" alt="accuracy score" src="https://github.com/Ph1so/Disease-Prediction/assets/56458094/a9183a4a-7432-4026-a21d-eb0f2112aca2">
+
 # Usage
 
 To run this project locally, follow these steps:
