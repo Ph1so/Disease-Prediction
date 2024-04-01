@@ -13,7 +13,6 @@ The dataset used for this project consists of 4920 samples. The dataset was obta
 In this project, I employed several different machine learning models from Scikit-learn to train and evaluate the predictive model. The steps involved in the process include:
 
 - Importing data: Cleaning the dataset, handling missing values, and scaling features.
-- Understanding data: Understanding data distribution and correlation matrix
 - Model training: Training the selected algorithm on the preprocessed dataset.
 - Model evaluation: Assessing the performance of the trained model using appropriate metrics such as accuracy, precision, recall, and F1-score.
 
