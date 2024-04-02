@@ -2,7 +2,7 @@
 
 # Overview
 
-This repository contains a machine-learning project focused on classifying diseases based on a pool of over 130 symptoms. This project aims to develop a model that can accurately predict an individual's disease based on various input features.
+This repository contains a machine-learning project focused on classifying diseases based on a pool of over 130 symptoms. This project aims to develop a model that can accurately predict an individual's disease based on various combinations of symptoms.
 
 # Dataset
 
